@@ -5,11 +5,16 @@ This project aims to develop machine learning models to predict heart failure ba
 Machine Learning Models
 I am currently experimenting with several machine learning models to identify the most effective approach for predicting heart failure. The models under consideration include:
 
-Support Vector Machines (SVM) with RBF kernel
-Decision Tree
-Random Forest
-Gradient Boosting using XGBoost
-Light GBM
+1. Support Vector Machines (SVM) with RBF kernel
+
+2. Decision Tree
+
+3. Random Forest
+
+4. Gradient Boosting using XGBoost
+
+5. Light GBM
+
 Current Status
 
 The project is in an active development phase. I am still working on:
